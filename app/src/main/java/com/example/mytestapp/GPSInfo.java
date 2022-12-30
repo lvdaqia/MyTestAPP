@@ -22,7 +22,7 @@ public class GPSInfo {
         if (mLocationManager.isLocationEnabled()) {
             String bestProvider = mLocationManager.getBestProvider(getCriteria(), true);
             //mLocationManager.registerGnssStatusCallback(mGNSSCallback);
-            //mLocationManager.requestLocationUpdates(provider, 500, 50, mLocationListener);
+            mLocationManager.requestLocationUpdates(bestProvider, 500, 50, mLocationListener);
             location = mLocationManager.getLastKnownLocation(bestProvider);
         }
 
