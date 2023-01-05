@@ -3,8 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/yj/AndroidStudioProjects/MyTestAPP/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.1955" />
+        <entry key="..\:/Users/yj/AndroidStudioProjects/MyTestAPP/app/src/main/res/drawable/ic_gps.xml" value="0.1955" />
         <entry key="..\:/Users/yj/AndroidStudioProjects/MyTestAPP/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1955" />
+        <entry key="..\:/Users/yj/AndroidStudioProjects/MyTestAPP/app/src/main/res/drawable/ic_video.xml" value="0.1955" />
+        <entry key="..\:/Users/yj/AndroidStudioProjects/MyTestAPP/app/src/main/res/drawable/ic_web.xml" value="0.1955" />
         <entry key="..\:/Users/yj/AndroidStudioProjects/MyTestAPP/app/src/main/res/layout/activity_main.xml" value="0.1875" />
+        <entry key="..\:/Users/yj/AndroidStudioProjects/MyTestAPP/app/src/main/res/layout/dialog.xml" value="0.375" />
+        <entry key="..\:/Users/yj/AndroidStudioProjects/MyTestAPP/app/src/main/res/layout/test.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/yj/AndroidStudioProjects/MyTestAPP/app/src/main/res/layout/web_dialog.xml" value="0.22" />
       </map>
     </option>
   </component>
